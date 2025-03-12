@@ -1,0 +1,30 @@
+{
+    "Url": "https://jsonplaceholder.typicode.com/posts/1",
+    "StatusCode": 200,
+    "ResTime": 561
+}
+{
+    "Url": "https://api.github.com",
+    "StatusCode": 200,
+    "ResTime": 563
+}
+{
+    "Url": "https://api64.ipify.org?format=json",
+    "StatusCode": 200,
+    "ResTime": 816
+}
+{
+    "Url": "https://dog.ceo/api/breeds/image/random",
+    "StatusCode": 200,
+    "ResTime": 843
+}
+{
+    "Url": "https://api.open-meteo.com/v1/forecast?latitude=35.6895\u0026longitude=139.6917\u0026current_weather=true",
+    "StatusCode": 200,
+    "ResTime": 845
+}
+{
+    "Url": "https://httpbin.org/status/200",
+    "StatusCode": 200,
+    "ResTime": 912
+}

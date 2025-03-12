@@ -1,0 +1,6 @@
+https://api.github.com
+https://jsonplaceholder.typicode.com/posts/1
+https://httpbin.org/status/200
+https://api.open-meteo.com/v1/forecast?latitude=35.6895&longitude=139.6917&current_weather=true
+https://api64.ipify.org?format=json
+https://dog.ceo/api/breeds/image/random
