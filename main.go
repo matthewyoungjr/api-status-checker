@@ -12,9 +12,9 @@ import (
 )
 
 type UrlResponse struct {
-	Url        string
-	StatusCode int
-	ResTime    time.Duration
+	Url        string        `json:"url"`
+	StatusCode int           `json:"status_code"`
+	ResTime    time.Duration `json:"duration"`
 }
 
 func main() {
